@@ -1,0 +1,26 @@
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\bin\Debug\record and play audio.exe.config
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\bin\Debug\record and play audio.exe
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\bin\Debug\record and play audio.pdb
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\bin\Debug\NAudio.Asio.dll
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\bin\Debug\NAudio.Core.dll
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\bin\Debug\NAudio.dll
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\bin\Debug\NAudio.Midi.dll
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\bin\Debug\NAudio.WinForms.dll
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\bin\Debug\NAudio.WinMM.dll
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\bin\Debug\NAudio.xml
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\obj\Debug\record and play audio.csproj.AssemblyReference.cache
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\obj\Debug\record and play audio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\obj\Debug\record_and_play_audio.Form1.resources
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\obj\Debug\record_and_play_audio.Properties.Resources.resources
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\obj\Debug\record and play audio.csproj.GenerateResource.cache
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\obj\Debug\record and play audio.csproj.CoreCompileInputs.cache
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\obj\Debug\record and play audio.csproj.CopyComplete
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\obj\Debug\record and play audio.exe
+C:\Users\Kapi\source\repos\record and play audio\record and play audio\obj\Debug\record and play audio.pdb
